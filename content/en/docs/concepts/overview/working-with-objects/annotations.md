@@ -97,7 +97,7 @@ spec:
 
 ## {{% heading "whatsnext" %}}
 
-Learn more about [Labels and Selectors](/docs/concepts/overview/working-with-objects/labels/).
+Learn more about [Field Selectors](/docs/concepts/overview/working-with-objects/field-selectors/).
 
 
 
